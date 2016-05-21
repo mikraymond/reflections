@@ -15,6 +15,7 @@ Incase you want to add new experimental functionality that is core to the softwa
 Branches help because it allows you to try out new functionality without messing with the original
 
 How do the diagrams help you visualize the branch structure?
+They help you understand what connections are made and where they connect to the master
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
