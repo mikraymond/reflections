@@ -11,6 +11,8 @@ You can compare the staging area to the working directory to see what changes yo
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Incase you want to add new experimental functionality that is core to the software
+Branches help because it allows you to try out new functionality without messing with the original
 
 How do the diagrams help you visualize the branch structure?
 
