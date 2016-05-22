@@ -1,28 +1,31 @@
-When would you want to use a remote repository rather than keeping all your work
-local?
-	It creates redundancy as well as allows others to contribute to your project
+1) When would you want to use a remote repository rather than keeping all your work
+   local?
+	
+	A: It creates redundancy as well as allows others to contribute to your project
 
-Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+2) Why might you want to always pull changes manually rather than having Git
+   automatically stay up-to-date with your remote repository?
 
-    Perhaps you are working on a feature that is not ready for public consumption.
+   A: Perhaps you are working on a feature that is not ready for public consumption.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+3) Describe the differences between forks, clones, and branches.  When would you
+   use one instead of another?
+	
+   A: Fork makes a copy of a repository and creates a new repository. this fork will appear in the original repository so that they know it was forked and in the new repository it shows that it was a fork from the original
+	  Clone will make a replica of a branch into a repository
+	  Branch is an off shoot of an existing repository
 
-    Fill in your answer here
+4) What is the benefit of having a copy of the last known state of the remote
+   stored locally?
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+   A: Fill in your answer here
 
-    Fill in your answer here
+5) How would you collaborate without using Git or GitHub?  What would be easier,
+   and what would be harder?
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+   A: Fill in your answer here
 
-    Fill in your answer here
+6) When would you want to make changes in a separate branch rather than directly in
+   master?  What benefits does each approach have?
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
-
-    Fill in your answer here
+   A: Fill in your answer here
