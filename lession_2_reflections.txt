@@ -19,6 +19,7 @@ They help you understand what connections are made and where they connect to the
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It merges two branches togehter to make incorporate the changes from both branches into one master branch. We represent it in the diagrams so we can understand what will actually be merged verses what may become an orphaned node
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
