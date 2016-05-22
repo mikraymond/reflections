@@ -28,4 +28,4 @@
 6) When would you want to make changes in a separate branch rather than directly in
    master?  What benefits does each approach have?
 
-   A: Fill in your answer here
+   A: You would want to use a separate branch when you want to colloaborate on a change with someone else but dont want those changes to be part of the master branch
