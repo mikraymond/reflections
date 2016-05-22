@@ -23,3 +23,5 @@ It merges two branches togehter to make incorporate the changes from both branch
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Git's automatic merging is much more efficient than manually doing merges, however, git cannot always automatically determine how to merge, and in those cases you will
+have a merge conflict that needs to manually be reconciled
