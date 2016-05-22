@@ -18,7 +18,7 @@
 4) What is the benefit of having a copy of the last known state of the remote
    stored locally?
 
-   A: Fill in your answer here
+   A: It allows you to know your sync status with the online repository
 
 5) How would you collaborate without using Git or GitHub?  What would be easier,
    and what would be harder?
